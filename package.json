@@ -1,0 +1,20 @@
+{
+  "name": "tp_ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"HE IS ALIVE !\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dadamtp/tp_ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dadamtp/tp_ci/issues"
+  },
+  "homepage": "https://github.com/Dadamtp/tp_ci#readme"
+}
